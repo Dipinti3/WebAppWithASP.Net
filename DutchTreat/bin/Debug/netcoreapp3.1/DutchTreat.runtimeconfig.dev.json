@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/dipintipanda/.dotnet/store/|arch|/|tfm|",
+      "/Users/dipintipanda/.nuget/packages"
+    ]
+  }
+}
